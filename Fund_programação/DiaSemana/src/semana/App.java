@@ -8,7 +8,7 @@ public class App {
 		Scanner leia = new Scanner(System.in);
 		
 		
-		System.out.println("Informe um número de 1 a 7: ");
+		System.out.println("Informe o número da semana: ");
 		int numero = leia.nextInt();
 		
 		switch (numero) {
